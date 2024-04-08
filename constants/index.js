@@ -1,4 +1,4 @@
-export const apiKey = 'place your api key here from : https://www.themoviedb.org';
+export const apiKey = '829aa2b883184df4e6bf7b57e1be642d';
 
 
 // this data was used for the development of the app

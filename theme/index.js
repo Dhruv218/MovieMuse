@@ -5,5 +5,6 @@ export const theme = {
 }
 export const styles = {
    text: {color: theme.text},
+   text2:{color: '#d77ed7'},
    background: {backgroundColor: theme.background}
 }
